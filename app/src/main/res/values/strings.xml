@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Users</string>
+    <string name="loading">Loading…</string>
+    <string name="empty_users">No users :(</string>
+    <string name="user_details">User details</string>
+    <string name="phone">Phone: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="name">%1$s %2$s %3$s</string>
+    <string name="location">Street:%1$s\u002C City %2$s\u002C State:%3$s\u002C Postcode:%4$s</string>
+
+
+</resources>
